@@ -1,5 +1,5 @@
 ## Ashley Fay
-**Technical Writer · Knowledge Systems Engineer · Founder, TechFlow Strategies**
+**Senior Technical Writer · Knowledge Systems Engineer · Founder, TechFlow Strategies**
 
 I've spent 13 years solving the problem that quietly costs enterprise organizations 
 millions — documentation that is outdated the moment it ships, siloed from the people 
